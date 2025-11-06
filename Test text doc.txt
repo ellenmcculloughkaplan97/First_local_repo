@@ -1,1 +1,3 @@
-Hello, I am here to show you can commit changes to GitHub using GitHub desktop
+Hello, Ellen is here to show you can commit changes to GitHub using GitHub desktop
+
+I am showing what happens, when you add something new to a pre-exisiting local repository
